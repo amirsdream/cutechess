@@ -6,7 +6,6 @@ for playing chess. Cute Chess is written in C++ using the [Qt
 framework](http://qt-project.org/).
 
 Installing
-this just test
 ----------
 
 Binaries are available for `cutechess-cli`, the command-line interface of Cute
